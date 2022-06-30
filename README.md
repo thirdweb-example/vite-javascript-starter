@@ -3,7 +3,7 @@
 Create a project using this example:
 
 ```bash
-npx create-tw-app --example vite-javascript-starter
+npx thirdweb create --example vite-javascript-starter
 ```
 
 You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
